@@ -14,4 +14,6 @@ more details place click [here](https://www.mdpi.com/2076-3417/14/16/6862)
 ### For "Soybean Pod and Seed Counting in Both Outdoor Fields and Indoor Laboratories Using Unions of Deep Neural Networks", which was accepted by *Eureapon Conference of Computer Vision (ECCV) Workshops*.
 Please check Soybean.pdf
 
+The paper has been [published and attended](https://cvppa2024.github.io/proceedings/), waiting for the conference proceedings to be published.
+
 more details place click [here](https://github.com/SkyCol/soybean_phenotyping_platform)
