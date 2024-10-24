@@ -7,6 +7,7 @@ The acceptance certificate of the papers can be found in "Proof_ACC" folder.
 
 ### For "Research on Agricultural Product Price Prediction Based on Improved PSO-GA", which was accepted by *Applied Sciences*.
 Please check Agricultural Product Price Prediction.pdf
+
 more details place click [here](https://www.mdpi.com/2076-3417/14/16/6862)
 
 
